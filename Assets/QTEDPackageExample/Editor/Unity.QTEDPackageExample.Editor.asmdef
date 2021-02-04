@@ -1,0 +1,16 @@
+{
+    "name": "Unity.QTEDPackageExample.Editor",
+    "references": [
+        "Unity.QTEDPackageExample"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

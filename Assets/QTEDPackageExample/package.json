@@ -1,0 +1,8 @@
+{
+    "name": "com.qted.qtedpackageexample",
+    "version": "0.1.0",
+    "displayName": "Package Example",
+    "description": "example package",
+    "unity": "2018.4",
+    "author": "qtevd"
+}
